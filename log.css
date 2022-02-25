@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Lalezar&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@300;700&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #0099ff;
+}
+.ph1{
+    width: 80px;
+    margin-right: 10px;
+}
+#sf99{
+    display: none;
+}
+.pho1{
+    width: 80px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.baba{
+    border: white solid 2px;
+    box-shadow: 3px 3px 11px #0099ff;
+    margin-left: 550px;
+    margin-right: 550px;
+    border-radius: 2rem;
+    margin-top: 100px;
+    padding-bottom: 22px;
+}
+h3{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #0099ff;
+}
+.img{
+    width: 30px;
+    margin-right: 2px;
+    border: #0099ff solid 2px;
+    border-radius: 6px;
+    margin-bottom: 4px;
+}
+#user{
+    margin-top: 30px;
+    margin-bottom: 2px;
+    border: #0099ff solid 2px;
+    border-radius: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+#pass{
+    margin-top: 4px;
+    margin-bottom: 12px;
+    border: #0099ff solid 2px;
+    border-radius: 6px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+#email{
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    border: #0099ff solid 2px;
+    border-radius: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+@media screen and (max-width:1400px){
+    .baba{
+    border: white solid 2px;
+    box-shadow: 3px 3px 11px #0099ff;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 2rem;
+    margin-top: 80px;
+    padding-bottom: 22px;
+    }
+}
